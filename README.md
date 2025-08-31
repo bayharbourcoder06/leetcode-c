@@ -8,6 +8,6 @@ Dieses Repo enthält meine Lösungen zu LeetCode-Aufgaben, implementiert in C.
 - Vorbereitung auf spätere C++- und Interview-Aufgaben
 
 ## Gelöste Aufgaben
-- [Two Sum](two_sum.c)
+- [Two Sum](twosum.c)
 - [Reverse Linked List](reverselinkedlist.c)
 
