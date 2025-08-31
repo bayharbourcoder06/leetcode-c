@@ -9,5 +9,5 @@ Dieses Repo enthält meine Lösungen zu LeetCode-Aufgaben, implementiert in C.
 
 ## Gelöste Aufgaben
 - [Two Sum](two_sum.c)
-
+- [Reverse Linked List](reverselinkedlist.c)
 
