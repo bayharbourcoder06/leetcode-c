@@ -10,4 +10,5 @@ Dieses Repo enthält meine Lösungen zu LeetCode-Aufgaben, implementiert in C.
 ## Gelöste Aufgaben
 - [Two Sum](2sums.c)
 - [Reverse Linked List](reverselinkedlist.c)
+- [Score Of String](scoreOfString.c)
 
